@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-size: 100px;
+  
+}
+
+.container {
+  display: flex;
+}
+
+.block {
+  height: 300px;
+  width: 300px;
+  
+}
+
+.block-1 {
+  background-color: red;
+}
